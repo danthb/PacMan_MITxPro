@@ -99,3 +99,8 @@ function makeOne() {
 function reset() {
     window.location.reload();
 }
+
+function relocate_home()
+{
+     location.href = "https://danthb.github.io/";
+} 
