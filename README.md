@@ -19,7 +19,7 @@ To install this proyect in your machine, follow these steps:
 3. Increase the velocity if you click Start Game button.
 3. Hit Reset button if you want to clear the screen
 
-[Live Demo](https://soydanielromero.github.io/PacMenExercise/)
+[Live Demo](https://danthb.github.io/PacMan_MITxPro/)
 
 ## Support 
 
